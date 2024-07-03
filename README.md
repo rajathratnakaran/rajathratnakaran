@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajath Ratnakaran</h1>
 <h3 align="center">A highly skilled data analyst with a strong background in logical, analytical, and critical thinking. Passionately seeking a data analyst position where I can leverage and enhance my skills in data visualization, statistical analysis, and database management.</h3>
 
-<img align="right" alt = "Data_Analyst" width="400" src="![image](https://github.com/rajathratnakaran/rajathratnakaran/assets/92428713/05520105-d3d1-47d6-8ae0-d3ca36e6f302)
-" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathratnakaran&label=Profile%20views&color=0e75b6&style=flat" alt="rajathratnakaran" /> </p>
-
-- 🌱 I’m currently learning **PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://olympus.mygreatlearning.com/eportfolio](https://olympus.mygreatlearning.com/eportfolio)
 
