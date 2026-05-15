@@ -6,15 +6,11 @@
 
 #### :briefcase: Skillset:
 
-**SQL & Query Engines:** Hive, BigQuery, MySQL -CTEs, window functions, multi-level joins on datasets 50M+ rows
-Python: Pandas, NumPy -reporting automation, data wrangling, EDA, workflow scripting
-**BI & Visualization:** Looker Studio, Power BI, Tableau, Google Sheets, Excel -dashboards, KPI tracking, executive
-reporting
-**Analytics:** A/B Testing (Statsig), Funnel Analysis, Cohort Analysis, Customer Segmentation, EDA, Business
-Intelligence
-**Soft Skills:** Stakeholder Management, Cross-functional Collaboration, Business Communication, Product &
-Growth Analytics
-
+- **SQL & Query Engines:** Hive, BigQuery, MySQL — CTEs, window functions, multi-level joins on 50M+ row datasets
+- **Python:** Pandas, NumPy — reporting automation, data wrangling, EDA, workflow scripting
+- **BI & Visualization:** Looker Studio, Power BI, Tableau, Google Sheets, Excel — dashboards, KPI tracking, executive reporting
+- **Analytics:** A/B Testing (Statsig), Funnel Analysis, Cohort Analysis, Customer Segmentation, EDA, Business Intelligence
+- **Soft Skills:** Stakeholder Management, Cross-functional Collaboration, Business Communication, Product & Growth Analytics
 
 #### :open_file_folder:	Projects:
 Check out my Project Portfolio: [My Projects](https://olympus.mygreatlearning.com/eportfolio)
