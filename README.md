@@ -5,11 +5,16 @@
 #### I'm a 2016 Computer Science and Engineering graduate, a certified digital marketer, experienced sales professional and now a data enthusiast. Just another guy figuring out his interests, experimenting, connecting the dots.
 
 #### :briefcase: Skillset:
-* **SQL:** Expertise in extracting, cleansing, and manipulating complex datasets for detailed analysis.
-* **Data Visualization:** Proficient in creating clear and compelling narratives using tools like Power BI and Tableau to present data
-  insights to diverse audiences.
-* **Problem-Solving:** Strong ability to tackle complex challenges by developing innovative datadriven solutions.
-* **Communication:** Skilled in translating intricate data findings into understandable and actionable business insights.
+
+**SQL & Query Engines:** Hive, BigQuery, MySQL -CTEs, window functions, multi-level joins on datasets 50M+ rows
+Python: Pandas, NumPy -reporting automation, data wrangling, EDA, workflow scripting
+**BI & Visualization:** Looker Studio, Power BI, Tableau, Google Sheets, Excel -dashboards, KPI tracking, executive
+reporting
+**Analytics:** A/B Testing (Statsig), Funnel Analysis, Cohort Analysis, Customer Segmentation, EDA, Business
+Intelligence
+**Soft Skills:** Stakeholder Management, Cross-functional Collaboration, Business Communication, Product &
+Growth Analytics
+
 
 #### :open_file_folder:	Projects:
 Check out my Project Portfolio: [My Projects](https://olympus.mygreatlearning.com/eportfolio)
